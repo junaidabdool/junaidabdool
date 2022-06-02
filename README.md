@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @junaidabdool
 - 👀 I’m interested in ...learning and experiencing with new technologies
-- 🌱 I’m currently on my Second Year at University of Mauritius studying BSc Applied Computing  ...
+- 🌱 I’m currently on my Thrid Year at University of Mauritius studying BSc Applied Computing  ...
 
 
 <!---
